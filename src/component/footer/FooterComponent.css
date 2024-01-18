@@ -1,0 +1,16 @@
+.footer{
+    text-align: center;
+}
+.footer_heading{
+    font-size: 2rem;
+}
+.footer_main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer_items{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 1rem;
+    border-radius: 1rem;
+}

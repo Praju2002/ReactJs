@@ -1,0 +1,32 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.nav_logo{
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    padding: 10px;
+}
+.nav_items{
+    display: flex;
+    gap: 1rem;
+    padding: 10px;
+}
+.nav_item{
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    transition: all is ease;
+    cursor: pointer;
+}
+.nav_item:hover{
+    color: white;
+    /* font-size: 1.3rem; */
+    background-color: rgb(136, 120, 120);
+    transition: ease-in 0.2s;
+}
