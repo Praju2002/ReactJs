@@ -10,7 +10,19 @@ function NavBar() {
                     <p class="nav_item">Home</p>
                     <p class="nav_item">About</p>
                     <p class="nav_item">Contact</p>
+
                     <p class="nav_item">Login</p>
+
+
+                    <p class="nav_item">Faculty</p>
+                    <p class="nav_item">Department</p>
+
+                   
+                    <p class="nav_item">Blog</p>
+                    <p class="nav_item">Podcast</p>
+
+
+
                 </div>
             </nav>
         </div>
