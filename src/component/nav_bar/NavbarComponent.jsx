@@ -7,6 +7,7 @@ function NavBar() {
                     <p class="nav_item">Home</p>
                     <p class="nav_item">About</p>
                     <p class="nav_item">Contact</p>
+                   
                 </div>
             </nav>
         </div>
