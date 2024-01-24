@@ -5,7 +5,18 @@
     background-color: aquamarine;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+.nav .logoSection{
+    display: flex;
+    flex-direction: row;
+    /* margin: 0px 10px; */
+}
 .nav_logo{
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    padding: 10px;
+}
+.nav .click{
     font-size: 1.3rem;
     font-weight: bold;
     text-transform: capitalize;
