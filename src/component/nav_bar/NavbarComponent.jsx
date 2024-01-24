@@ -11,6 +11,9 @@ function NavBar() {
                     <p class="nav_item">About</p>
                     <p class="nav_item">Contact</p>
 
+                    <p class = "nav_item">Address</p>
+
+
                     <p class="nav_item">Login</p>
 
 
@@ -20,6 +23,7 @@ function NavBar() {
                    
                     <p class="nav_item">Blog</p>
                     <p class="nav_item">Podcast</p>
+
 
 
 
